@@ -1,6 +1,6 @@
 # Hi, I'm Basil 👋
 
-I'm a **Computer Engineering student** at TU Berlin and an aspiring MLOps Engineer focused on **IT Operations & Cloud Automation**.  
+I'm a **Computer Engineering student** at TU Berlin and an aspiring **MLOps Engineer** focused on **IT Operations & Cloud Automation**.  
 I build automations that improve reliability in support/service environments: validation, idempotency, logging, and clear documentation.
 
 ## What I’m working on
